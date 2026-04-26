@@ -29,7 +29,7 @@ Scans Python source code and generates a beautiful HTML report with all findings
 
 4. Run the scanner
 ```bash
-   python scanner.py vulnerable_code.py
+   python scanner.py vulnerable.py
 ```
 
 ## Output
