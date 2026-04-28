@@ -13,7 +13,7 @@ Scans Python source code and generates a beautiful HTML report with all findings
 
 1. Clone the repo
 ```bash
-   git clone https://github.com/YOUR_USERNAME/ai-security-scanner.git
+   git clone https://github.com/Umer-Fazal/AI-Powered-Security-Scanner-python.git
    cd ai-security-scanner
 ```
 
